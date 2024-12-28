@@ -23,6 +23,7 @@ jobs:
           user: royerramirez
           template: classic
           base: header, activity, community, repositories, metadata
+          filename: assets/metrics_left.svg
           config_timezone: America/Los_Angeles
           plugin_followup: yes
           plugin_followup_archived: yes
