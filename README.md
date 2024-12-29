@@ -3,7 +3,7 @@
 
 
 <a href="https://metrics.lecoq.io/about/royerramirez"><img src="assets/metrics_left.svg" align="left" width="47.5%"></img></a>
-<a href="https://metrics.lecoq.io/about/royerramirez"><img src="assets/metrics_right.svg" align="right" width="47.5%"></img></a>
+<a href="https://metrics.lecoq.io/about/royerramirez"><img src="assets/metrics_right.svg" align="left" width="47.5%"></img></a>
 
 <br />
 <br />
