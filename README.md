@@ -5,14 +5,12 @@
 <a href="https://metrics.lecoq.io/about/royerramirez"><img src="assets/metrics_left.svg" align="left" width="47.5%"></img></a>
 <a href="https://metrics.lecoq.io/about/royerramirez"><img src="assets/metrics_right.svg" align="right" width="47.5%"></img></a>
 
-<div style="clear: both;"></div>
+<br />
+<br />
+
+<img src="assets/royer.jpg" width="267" height="300"/>
 
 ## Hi there! 👋
-
-<div style="clear: both;">
-    <img src="assets/royer.jpg" width="267" height="300"/>
-</div>
-
 
 I'm **Royer Ramirez Ruiz**, a Staff DevOps & MLOps Engineer specializing in all things infrastructure.
 
