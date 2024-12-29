@@ -8,7 +8,13 @@
 <br />
 <br />
 
-<img src="assets/royer.jpg" width="267" height="300"/>
+<p align="center">
+
+<picture>
+  <img src="assets/royer.jpg" alt="royer">
+</picture>
+
+</p>
 
 ## Hi there! 👋
 
