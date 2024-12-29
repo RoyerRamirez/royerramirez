@@ -1,10 +1,9 @@
 name: achievements
 on:
-  # Schedule updates daily at 00:00 AM
-  schedule: [{ cron: "0 0 * * *" }]
+  schedule: [{ cron: "12 5 * * *" }]
   workflow_dispatch:
   push:
-    branches: ["master"]
+    branches: ["master", "main"]
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
