@@ -9,11 +9,9 @@
 <br />
 
 <p align="center">
-
 <picture>
-  <img src="assets/royer.jpg" alt="royer">
+  <img src="assets/royer.jpg" alt="royer" width="60%">
 </picture>
-
 </p>
 
 ## Hi there! 👋
